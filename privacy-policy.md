@@ -54,7 +54,7 @@ We use personal information collected via our Sites for a variety of business pu
 We use the information we collect or receive:
 
 - **To facilitate account creation and logon process.** If you choose to link your account with us to a third party account (such as your Google or Facebook account), we use the information you allowed us to collect from those third parties to facilitate account creation and logon process.
-- **To send you marketing and promotional communications.** We and/or our third party marketing partners may use the personal information you send to us for our marketing purposes, if this is in accordance with your marketing preferences. You can opt-out of our marketing emails at any time (see ["What Are Your Privacy Rights"](#10) below).
+- **To send you marketing and promotional communications.** We and/or our third party marketing partners may use the personal information you send to us for our marketing purposes, if this is in accordance with your marketing preferences. You can opt-out of our marketing emails at any time (see ["What Are Your Privacy Rights"](#10-what-are-your-privacy-rights) below).
 - **To send administrative information to you.** We may use your personal information to send you product, service and new feature information and/or information about changes to our terms, conditions, and policies.
 - **Deliver targeted advertising to you.** We may use your information to develop and display content and advertising (and work with third parties who do so) tailored to your interests and/or location and to measure its effectiveness.
 - **Request Feedback.** We may use your information to request feedback and to contact you about your use of our Sites.
@@ -108,7 +108,7 @@ We may use cookies and similar tracking technologies (like web beacons and pixel
 
 _**In Short:** We may transfer, store, and process your information in countries other than your own._
 
-Our servers are located in United States. If you are accessing our Sites from outside United States, please be aware that your information may be transferred to, stored, and processed by us in our facilities and by those third parties with whom we may share your personal information (see "[Will Your Information Be Shared With Anyone?](#3)" above), in United States, and other countries.
+Our servers are located in United States. If you are accessing our Sites from outside United States, please be aware that your information may be transferred to, stored, and processed by us in our facilities and by those third parties with whom we may share your personal information (see "[Will Your Information Be Shared With Anyone?](#3-will-your-information-be-shared-with-anyone)" above), in United States, and other countries.
 
 If you are a resident in the European Economic Area, then these countries may not have data protection or other laws as comprehensive as those in your country. We will however take all necessary measures to protect your personal information in accordance with this privacy policy and applicable law.
 
