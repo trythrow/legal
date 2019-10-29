@@ -93,7 +93,8 @@ _**In Short:** We only share information with the following third parties._
 We only share and disclose your information with the following third parties. If we have processed your data based on your consent and you wish to revoke your consent, please contact us.
 
 - Drip
-- HelpScout
+- Mailchimp
+- Help Scout
 - Stripe
 - Heroku
 - Amazon Web Services
